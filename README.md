@@ -2,6 +2,9 @@
 
 ### *A Smart Campus Coordination & Communication Platform*
 Video link of Campbuzz : https://drive.google.com/file/d/1kJJkRRiwxCjO1VNApHuq_i6LZRxDAsgv/view?usp=sharing
+## Repository Note and Apologies
+
+> The repository was re-uploaded to replace an unintended Git submodule with a standard project directory, ensuring the correct repository organization.
 
 > **Campus Buzz** is a centralized platform designed to simplify campus communication, event management, student collaboration, and grievance handling through secure role-based access and real-time interaction.
 
