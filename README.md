@@ -1,6 +1,7 @@
 # 🎓 Campus Buzz
 
 ### *A Smart Campus Coordination & Communication Platform*
+Video link of Campbuzz : https://drive.google.com/file/d/1kJJkRRiwxCjO1VNApHuq_i6LZRxDAsgv/view?usp=sharing
 
 > **Campus Buzz** is a centralized platform designed to simplify campus communication, event management, student collaboration, and grievance handling through secure role-based access and real-time interaction.
 
